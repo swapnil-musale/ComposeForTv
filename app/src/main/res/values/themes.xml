@@ -1,4 +1,6 @@
 <resources>
 
-    <style name="Theme.ComposeForTV" parent="@style/Theme.Leanback" />
+    <style name="Theme.ComposeForTV" parent="">
+        <item name="android:windowNoTitle">true</item>
+    </style>
 </resources>
