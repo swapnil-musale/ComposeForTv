@@ -51,5 +51,4 @@ dependencies {
     // TV Compose
     implementation "androidx.tv:tv-foundation:$tvComposeVersion"
     implementation "androidx.tv:tv-material:$tvComposeVersion"
-    implementation 'androidx.navigation:navigation-compose:2.6.0'
 }
