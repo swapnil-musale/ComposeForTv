@@ -1,12 +1,12 @@
 [versions]
 androidGradlePlugin = "8.0.2"
 androidLibrary = "8.0.2"
-kotlinAndroid = "1.8.20"
-androidxComposeCompiler = "1.4.6"
+kotlinAndroid = "1.8.21"
+androidxComposeCompiler = "1.4.7"
 
 coreKtx = "1.10.1"
 activityCompose = "1.7.2"
-composeBOM = "2023.01.00"
+composeBOM = "2023.05.01"
 tvFoundation = "1.0.0-alpha07"
 tvMaterial = "1.0.0-alpha07"
 
@@ -14,8 +14,10 @@ tvMaterial = "1.0.0-alpha07"
 [libraries]
 core-ktx = { module = "androidx.core:core-ktx", version.ref = "coreKtx" }
 activity-compose = { module = "androidx.activity:activity-compose", version.ref = "activityCompose" }
+
 compose-bom = { module = "androidx.compose:compose-bom", version.ref = "composeBOM" }
 ui-tooling = { module = "androidx.compose.ui:ui-tooling" }
+
 tv-foundation = { module = "androidx.tv:tv-foundation", version.ref = "tvFoundation" }
 tv-material = { module = "androidx.tv:tv-material", version.ref = "tvMaterial" }
 

@@ -26,7 +26,7 @@ class MainActivity : ComponentActivity() {
                         modifier = Modifier.fillMaxSize(),
                         contentAlignment = Alignment.Center,
                     ) {
-                        Text(text = "Hello Compose TV ")
+                        Text(text = "Hello Compose TV")
                     }
                 }
             }
