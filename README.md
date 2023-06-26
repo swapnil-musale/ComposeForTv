@@ -14,6 +14,7 @@ Using this template with one click you can build awesome project in Compose.
 ## 👷 Built with 🚀
   - **Uses Compose Android App file Structure**
   - **Version Catalog for Dependency Management**
+  - **Splash Screen API**
 
 
 
