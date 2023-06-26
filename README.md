@@ -15,7 +15,8 @@ Using this template with one click you can build awesome project in Compose.
   - **Uses Compose Android App file Structure**
   - **Version Catalog for Dependency Management**
   - **Splash Screen API**
-
+  - **Kotlin DSL Support**
+    
 
 
 ## 🤝 Support
