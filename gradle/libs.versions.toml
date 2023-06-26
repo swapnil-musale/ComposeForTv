@@ -5,6 +5,7 @@ kotlinAndroid = "1.8.21"
 androidxComposeCompiler = "1.4.7"
 
 coreKtx = "1.10.1"
+splashScreen = "1.0.1"
 activityCompose = "1.7.2"
 composeBOM = "2023.05.01"
 tvFoundation = "1.0.0-alpha07"
@@ -13,6 +14,7 @@ tvMaterial = "1.0.0-alpha07"
 
 [libraries]
 core-ktx = { module = "androidx.core:core-ktx", version.ref = "coreKtx" }
+androidx-splashScreen = { module = "androidx.core:core-splashscreen", version.ref = "splashScreen"}
 activity-compose = { module = "androidx.activity:activity-compose", version.ref = "activityCompose" }
 
 compose-bom = { module = "androidx.compose:compose-bom", version.ref = "composeBOM" }

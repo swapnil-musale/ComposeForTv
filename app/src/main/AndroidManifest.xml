@@ -22,7 +22,8 @@
             android:exported="true"
             android:icon="@drawable/app_icon_your_company"
             android:logo="@drawable/app_icon_your_company"
-            android:screenOrientation="landscape">
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.SplashScreenTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
