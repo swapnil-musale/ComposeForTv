@@ -3,4 +3,11 @@
     <style name="Theme.ComposeForTV" parent="">
         <item name="android:windowNoTitle">true</item>
     </style>
+
+    <style name="Theme.SplashScreenTheme" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@android:color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="postSplashScreenTheme">@style/Theme.ComposeForTV</item>
+    </style>
 </resources>
