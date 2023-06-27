@@ -1,0 +1,12 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:base"
+  ],
+  "timezone": "IST",
+  "schedule": ["on monday and friday"],
+  "labels": ["dependency-update"],
+  "baseBranches": ["master"],
+  "branchPrefix": "chore/",
+  "additionalBranchPrefix": "update-dependency"
+}
