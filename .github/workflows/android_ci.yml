@@ -23,6 +23,7 @@ jobs:
         run: bash ./gradlew test --stacktrace
         
   build:
+    name: Build Project
     runs-on: ubuntu-latest
 
     steps:
