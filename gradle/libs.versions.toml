@@ -1,8 +1,8 @@
 [versions]
 androidGradlePlugin = "8.0.2"
 androidLibrary = "8.0.2"
-kotlinAndroid = "1.8.21"
-androidxComposeCompiler = "1.4.7"
+kotlinAndroid = "1.9.0"
+androidxComposeCompiler = "1.5.0"
 
 coreKtx = "1.10.1"
 splashScreen = "1.0.1"
