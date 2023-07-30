@@ -9,7 +9,7 @@ splashScreen = "1.0.1"
 activityCompose = "1.7.2"
 composeBOM = "2023.06.01"
 tvFoundation = "1.0.0-alpha08"
-tvMaterial = "1.0.0-alpha07"
+tvMaterial = "1.0.0-alpha08"
 
 
 [libraries]
