@@ -23,7 +23,7 @@ To get started with ComposeForTv, follow these simple steps:
 2. Clone the newly created repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-tv-app.git
+git clone https://github.com/swapnil-musale/ComposeForTv.git
 ```
 
 3. Open the project in Android Studio or your preferred IDE.
