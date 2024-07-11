@@ -8,7 +8,7 @@ coreKtx = "1.13.1"
 splashScreen = "1.0.1"
 activityCompose = "1.9.0"
 composeBOM = "2024.05.00"
-tvFoundation = "1.0.0-alpha10"
+tvFoundation = "1.0.0-alpha11"
 tvMaterial = "1.0.0-beta01"
 
 
