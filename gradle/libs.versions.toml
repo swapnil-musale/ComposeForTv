@@ -2,7 +2,7 @@
 androidGradlePlugin = "8.4.0"
 androidLibrary = "8.4.0"
 kotlinAndroid = "1.9.23"
-androidxComposeCompiler = "1.5.13"
+androidxComposeCompiler = "1.5.15"
 
 coreKtx = "1.13.1"
 splashScreen = "1.0.1"
